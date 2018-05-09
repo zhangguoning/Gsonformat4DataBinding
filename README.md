@@ -5,7 +5,7 @@
 3. Getter方法 自动添加 @Bindable 注解
 
 安装：
-1. 下载 GsonFormat.jar 
+1. 下载 [GsonFormat.jar](https://github.com/zhangguoning/GsonFormatForDataBinding/raw/master/pluginJar/GsonFormatForDataBinding.jar) 
 2. Android studio  File->Settings..->Plugins --> install plugin from disk..导入下载的 GsonFormat4DataBinding.jar 
 3. 重启 android studio 
 
