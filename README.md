@@ -1,5 +1,5 @@
 # **GsonFormatForDataBinding <br/>适用于生成 Android DataBinding Bean的GsonFormat 插件**
-  
+  [![](https://jitpack.io/v/zhangguoning/GsonFormat4DataBinding.svg)](https://jitpack.io/#zhangguoning/GsonFormat4DataBinding)
 1. 可以使新生成的Bean自动继承自 BaseObservable
 2. Setter方法 自动添加  notifyPropertyChanged(BR.'字段名');
 3. Getter方法 自动添加 @Bindable 注解
