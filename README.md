@@ -4,10 +4,17 @@
 2. Setter方法 自动添加  notifyPropertyChanged(BR.'字段名');
 3. Getter方法 自动添加 @Bindable 注解
 
-安装：
+安装方式一(推荐)：
+从 Jetbrains 插件库中安装
+AndroidStudio -> Prefereces -> Plugins -> Marketplace -> 输入：gsonf(或输入全名‘gsonformat4databinding’)，选择 Gsonformat4DataBinding 插件 -> install
+附：Jetbrains插件库中地址 https://plugins.jetbrains.com/plugin/10719-gsonformat4databinding
+
+安装方式二：
+本地安装
 1. 下载 [GsonFormat4DataBinding.jar](https://github.com/zhangguoning/GsonFormat4DataBinding/raw/master/pluginJar/GsonFormat4DataBinding.jar) 
 2. Android studio  File->Settings..->Plugins --> install plugin from disk..导入下载的 GsonFormat4DataBinding.jar 
 3. 重启 android studio 
+
 
 其他：
 1. 快捷键默认为 alt + d ，（原 GsonFormat 快捷键为 alt + s）
